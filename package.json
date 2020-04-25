@@ -1,6 +1,6 @@
 {
   "name": "shorturl",
-  "baseUrl": "https://rdjp-short-url.netlify.app",
+  "baseUrl": "https://rdjp.link",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:rdjpalmer/shorturl.git",
