@@ -1,0 +1,15 @@
+{
+  "name": "shorturl",
+  "baseUrl": "https://rdjp-short-url.netlify.app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rdjpalmer/shorturl.git",
+  "author": "Richard Palmer <rich@rdjpalmer.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-shortener": "^2.1.1"
+  },
+  "scripts": {
+    "shorten": "netlify-shortener"
+  }
+}
