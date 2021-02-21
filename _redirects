@@ -1,3 +1,4 @@
+/mock-rails-open-uri   https://carbon.now.sh/?bg=rgba%280%2C0%2C0%2C1%29&t=night-owl&wt=none&l=ruby&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=it%2520%2522mocks%2520out%2520the%2520open%28%29%2520response%2522%2520do%250A%2520%2520return_val%2520%253D%2520%2522200%2520Good%2520boi%2522%250A%2520%2520service%2520%253D%2520Service.new%28%29%250A%2520%2520allow%28service%29.to%2520receive%28%253Aopen%29.and_yield%28return_val%29%250A%250A%2520%2520service.fetch%21%250Aend
 /subscribe             https://rdjpalmer.us20.list-manage.com/subscribe/post?u=0cb4f80ca9869534161bfc334&id=5e488d017e
 /fathom-intersection   https://github.com/rdjpalmer/website/blob/341029e81f4c769717dd01621f3754d8b70dd927/pages/%5Bslug%5D.tsx#L27-L36
 /dark-mode             https://www.rdjpalmer.com/dark-mode-everything
